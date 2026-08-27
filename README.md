@@ -18,3 +18,7 @@ This project demonstrates how to create a semantic and structured CV using only 
 - Career history
 - Contact information
 - Semantic HTML structure
+
+## Project URL
+
+https://github.com/Manan250906/my-html-CV-project.git
