@@ -21,4 +21,4 @@ This project demonstrates how to create a semantic and structured CV using only 
 
 ## Project URL
 
-https://manan250906.github.io/my-html-CV-project/
+https://manan250906.github.io/my-html-CV-project.git
