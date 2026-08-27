@@ -25,6 +25,6 @@ https://github.com/Manan250906/my-html-CV-project
 
 # My HTML CV Project
 
-## Project URL
+## Project Page
 
-https://manan250906.github.io/my-html-CV-project/
+[View the Project](https://manan250906.github.io/my-html-CV-project/)
