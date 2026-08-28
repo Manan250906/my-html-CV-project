@@ -1,7 +1,9 @@
 # My HTML CV Project
 
-This project is my HTML CV website.
+## Project Page URL
 
-## Project URL
+https://roadmap.sh/projects/single-page-cv
+
+## Live Project
 
 https://manan250906.github.io/my-html-CV-project/
