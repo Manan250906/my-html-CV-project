@@ -1,7 +1,7 @@
 # My HTML CV Project
 
-This is my HTML CV project.
+This project is my HTML CV website.
 
 ## Project URL
 
-[View the Project](https://manan250906.github.io/my-html-CV-project/)
+https://manan250906.github.io/my-html-CV-project/
